@@ -1,1 +1,1 @@
-# Discord-Emoji-Swapper-
+# Discord-Emoji-Swapper
