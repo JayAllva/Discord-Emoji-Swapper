@@ -6,5 +6,4 @@ A convenient tool to automatically swap out discord emoji sets
 * Activate it by using `source .venv/bin/activate`
 
 ## Installing Discord.py 
-Now install Discord.py with your virtual environment running using the command: `uv pip install discord.py`
 Start the virtual environment by using `uv init` followed by `uv sync` to install the necessary dependencies
